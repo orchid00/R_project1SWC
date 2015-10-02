@@ -4,6 +4,8 @@
 # Date: Sept 29th, 2015
 # Version: 0.01
 
+#we are adding this script to git!
+
 #assume you have the ggplot2 package installed already 
 #call ggplot2 using library
 #for later add an if condition to test if the package is there
