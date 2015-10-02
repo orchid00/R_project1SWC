@@ -5,6 +5,7 @@
 # Version: 0.01
 
 #we are adding this script to git!
+#create a conflict
 
 #assume you have the ggplot2 package installed already 
 #call ggplot2 using library
