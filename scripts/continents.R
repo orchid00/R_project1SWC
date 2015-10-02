@@ -18,6 +18,7 @@ load("data/gapminder.RData")
 
 #create a function that draws the plots per continent
 #It is a multifigure plot
+#the facet_grid makes it multiplot
 draw_dots_continents <- function(gapminder){
   p<-
     ggplot(data= gapminder, aes(x=year, y=lifeExp, color=country)) +
