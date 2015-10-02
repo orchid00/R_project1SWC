@@ -1,0 +1,8 @@
+*.csv
+data/
+plots/
+.RData
+.Rhistory
+.Rproj.user/
+.git_R/
+.gitignore_R
